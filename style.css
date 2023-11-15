@@ -1,0 +1,101 @@
+ul{
+    display: flex;
+    font-size: 30px;
+    
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 0px;
+    background-color: rgb(236, 236, 236);
+    border-radius: 20px;
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li{
+    list-style: none;
+
+}
+a{
+    text-decoration: none;
+    margin-left: 20px;
+    padding: 0px;
+   background-color: rgb(246, 246, 246);
+   color: rgb(34, 34, 34);
+   padding-left: 20px;
+   padding-right: 20px;
+   padding-top: 5px;
+
+    
+    border-radius: 20px;
+}
+
+.container{
+
+  
+    height: 500px;
+    width: 80%;
+    border-radius: 20px;
+    display: flex;
+    margin: auto;
+
+
+}
+.left{
+    background-color: aquamarine;
+    width: 50%;
+    height: 100%;
+    background-image: url(https://70.img.avito.st/image/1/1.3RmUxba4cfCCbcv6ourcebZnc_YqZNP5mm5z8iRsefoi.vP9PdwSr9bjynbjHFD9Q9tMuGWNvilt7FQJ1xJ8cjb4);
+    background-size: cover;
+    padding: 93px;
+    border-radius: 50px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+
+}
+
+.right{
+    
+    width: 50%;
+    height: 125%;
+
+    background-size: cover;
+    
+    border-radius: 50px;
+    padding: 10px;
+
+}
+
+.top{
+    background-color: blueviolet;
+    width: 100%;
+    height: 50%;
+    background-image: url(https://fons.pibig.info/uploads/posts/2023-06/thumbs/1686675267_fons-pibig-info-p-oboi-metro-royal-pinterest-62.jpg);
+    border-radius: 50px;
+    background-size: cover;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.bottom{
+
+    background-color: rgb(226, 162, 43);
+    width: 100%;
+    height: 50%;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjj9kLJUmobYIGCsoK7en82rRTXJcFp8CDrqFm0xMf4iODpHak0ApdnAHgYOE1O2Pzfko&usqp=CAU);
+    border-radius: 50px;
+    background-size: cover;
+    padding: 10px;
+    margin-top: 10px;
+    color: white;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+
+
+}
